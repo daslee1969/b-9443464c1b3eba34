@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel><title>David's Brief</title><link>https://daslee1969.github.io/b-9443464c1b3eba34/</link><language>en-us</language>
+<atom:link href="https://daslee1969.github.io/b-9443464c1b3eba34/feed.xml" rel="self" type="application/rss+xml"/>
+<description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
+<itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<itunes:block>Yes</itunes:block>
+<item><title>Harrison Chase on neutral harnesses and the memory layer</title><description></description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-19-stebbings-chase-memory-layer.mp3" length="5185580" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-19-stebbings-chase-memory-layer</guid><pubDate>Mon, 19 Oct 2026 08:00:00 -0700</pubDate>
+<itunes:duration>324</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<item><title>What has to go right to justify AI CapEx: Eric Flaningam's revenue threshold</title><description></description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-19-flaningam-ai-capex-revenue-threshold.mp3" length="10567340" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-19-flaningam-ai-capex-revenue-threshold</guid><pubDate>Mon, 19 Oct 2026 08:00:00 -0700</pubDate>
+<itunes:duration>660</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<item><title>AI Infra: A U.S. Power Shortage Is Not a Global Glut</title><description></description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-17-fredaduan-ai-infra-power-shortage-vs-glut.mp3" length="10409900" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-17-fredaduan-ai-infra-power-shortage-vs-glut</guid><pubDate>Sat, 17 Oct 2026 08:00:00 -0700</pubDate>
+<itunes:duration>650</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<item><title>"This Guy Sees the Future": A July AI Bear List, Revisited</title><description></description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-17-data168-ai-bear-predictions.mp3" length="8081324" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-17-data168-ai-bear-predictions</guid><pubDate>Sat, 17 Oct 2026 08:00:00 -0700</pubDate>
+<itunes:duration>505</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<item><title>Grok Bot Voice Calls Get Faster and Remember More</title><description></description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-16-xbm-grok-bot-voice-calls.mp3" length="4814252" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-16-xbm-grok-bot-voice-calls</guid><pubDate>Fri, 16 Oct 2026 08:00:00 -0700</pubDate>
+<itunes:duration>300</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<item><title>Seufert on Muse Spark Open, Apple, and on-device AI</title><description></description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-16-seufert-on-device-ai.mp3" length="5465996" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-16-seufert-on-device-ai</guid><pubDate>Fri, 16 Oct 2026 08:00:00 -0700</pubDate>
+<itunes:duration>455</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<item><title>"Special Forces" Innovation: How DARPA Attacks Problems</title><description></description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-16-darpa-special-forces-innovation.mp3" length="15177644" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-16-darpa-special-forces-innovation</guid><pubDate>Fri, 16 Oct 2026 08:00:00 -0700</pubDate>
+<itunes:duration>948</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<item><title>Gavin Baker: Everyone Can Win in AI (and what it means for Samsung DX)</title><description>A walk-through of Gavin Baker's Oct 13 thread on model-layer fragmentation, token economics, compute prices and Anthropic's commitments, plus implications for Samsung DX.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-13-gavin-baker-everyone-can-win.mp3" length="4090176" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-13-gavin-baker-everyone-can-win</guid><pubDate>Tue, 13 Oct 2026 14:00:47 -0700</pubDate>
+<itunes:duration>681</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+</channel></rss>
