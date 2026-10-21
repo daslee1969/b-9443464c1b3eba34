@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>The GPU Revenue Ladder: Tunguz on Inference Economics</title><description>Tomasz Tunguz prices one GPU card-hour four ways, from DeepSeek's theoretical $38 to SpaceX's realized $2.44, and argues large-scale inference is a healthy business. His caveats, the counterforces (token deflation, on-device inference), and our interpretation for Samsung DX and Samsung Next. Source: https://x.com/ttunguz/status/2112950420402479268</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-tunguz-gpu-revenue-ladder.mp3" length="8899628" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-21-tunguz-gpu-revenue-ladder</guid><pubDate>Wed, 21 Oct 2026 15:10:00 -0700</pubDate>
+<itunes:duration>556</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Flapping Airplanes' Billion-Dollar Bet on GPU Primitives</title><description>The Spector brothers' data-efficiency lab raises a $1B Series A (Index, Lux) on a megakernel framework that it says makes GPUs cheaper and more expressive. What they claim, what's unverified, and our interpretation for on-device AI and Samsung Next. Source: https://x.com/flappyairplanes/status/2112955212612919318</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-flapping-airplanes-billion-dollar-gpu-primitives.mp3" length="7312940" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-21-flapping-airplanes-billion-dollar-gpu-primitives</guid><pubDate>Wed, 21 Oct 2026 10:47:00 -0700</pubDate>
