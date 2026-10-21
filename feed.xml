@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Thompson: Muse Spark Open, Meta + Apple, Thin and Thick</title><description>Ben Thompson (Stratechery) on Meta's open-weight Muse Spark Open running locally on Macs with Apple's help, his branch-prediction idea for free local tokens, and why cloud still wins on cost. Ends with our interpretation for Samsung DX and Samsung Next. Source: https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-thompson-muse-spark-open-thin-and-thick.mp3" length="6280364" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-21-thompson-muse-spark-open-thin-and-thick</guid><pubDate>Wed, 21 Oct 2026 07:40:11 -0700</pubDate>
+<itunes:duration>392</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Energy as Money: Brivael on Elon's Kilowatt-Hour Standard</title><description>Brivael Le Pogam argues fiat dies and energy becomes the unit of account in an AI economy; pushback from replies, plus our interpretation for Samsung DX and Samsung Next.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-brivael-energy-money.mp3" length="7218092" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-21-brivael-energy-money</guid><pubDate>Wed, 21 Oct 2026 07:25:35 -0700</pubDate>
