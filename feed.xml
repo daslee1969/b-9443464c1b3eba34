@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Parker Conrad: Token Gross Margins Are the Metric</title><description>Rippling's Parker Conrad pushes back on Vanta's Christina Cacioppo eating token costs: if intelligence isn't worth 4X inside your product, you're just reselling the labs. Plus what it means for Samsung DX and Samsung Next (our interpretation).</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-20-conrad-token-gross-margins.mp3" length="6218156" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-20-conrad-token-gross-margins</guid><pubDate>Tue, 20 Oct 2026 17:29:33 -0700</pubDate>
+<itunes:duration>388</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Ian Buck: Why Nvidia's GPUs Keep Winning</title><description>Nvidia's Ian Buck tells Tae Kim why GPUs beat custom chips (productivity, fungibility, durability), how agents make memory, CPUs and storage matter, and how power-aware software fits 30% more GPUs into data centers. Ends with our interpretation for Samsung.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-20-buck-why-gpus-keep-winning.mp3" length="7566764" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-20-buck-why-gpus-keep-winning</guid><pubDate>Tue, 20 Oct 2026 09:19:24 -0700</pubDate>
