@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>The AI World Is Splitting in Two: Waldman on Local vs Frontier</title><description>M. Waldman (Loci) argues most consumer AI requests can run locally while frontier models stay in data centers, and that the winner will be whoever routes each request. Pushback on his numbers, plus our interpretation for Samsung's on-device vs cloud vs partner split. Source: https://x.com/i/status/2112944003121324232</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-waldman-ai-splitting-in-two.mp3" length="6774956" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-21-waldman-ai-splitting-in-two</guid><pubDate>Wed, 21 Oct 2026 10:33:00 -0700</pubDate>
+<itunes:duration>423</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Nvidia's Demand in Thirds: Jensen Huang on BG2</title><description>Jensen Huang tells Brad Gerstner AI demand is far broader than two labs, and the 2027 limit is land, power and shell; pushback, plus our interpretation for Samsung DX and Samsung Next.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-bg2-jensen-demand-in-thirds.mp3" length="7591724" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-21-bg2-jensen-demand-in-thirds</guid><pubDate>Wed, 21 Oct 2026 08:34:09 -0700</pubDate>
