@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Kevin Kelly: The Most Improbable Agent of You</title><description>Kevin Kelly argues AI is as centralized as it will ever be, that cost per capability halves every six to seven months so today's leading model could run on a device you own within a few years, and that we want the 'only AI', a personal exoself, not the best AI. Plus our interpretation for Samsung DX and Samsung Next. Source: https://kevinkelly.substack.com/p/most-improbable-agent-of-you</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-22-kelly-most-improbable-agent-of-you.mp3" length="5702828" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-22-kelly-most-improbable-agent-of-you</guid><pubDate>Thu, 22 Oct 2026 07:38:09 -0700</pubDate>
+<itunes:duration>356</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>The Current State of AI: Social Capital's Deep Dive</title><description>Social Capital's deck on the state of AI: the chatbot race, reasoning models, the business of AI, agentic systems, multimodal and voice, and U.S.-China primacy, plus our interpretation for Samsung DX and Samsung Next. Source: Social Capital, The Current State of Artificial Intelligence.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-22-chamath-current-state-of-ai.mp3" length="13794860" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-22-chamath-current-state-of-ai</guid><pubDate>Wed, 21 Oct 2026 23:43:00 -0700</pubDate>
@@ -25,7 +29,7 @@
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-22-topol-personal-health-agent.mp3" length="8032940" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-22-topol-personal-health-agent</guid><pubDate>Wed, 21 Oct 2026 23:29:35 -0700</pubDate>
 <itunes:duration>502</itunes:duration><itunes:explicit>false</itunes:explicit></item>
-    <item><title>The Retention Problem for Personal Agents: signüll's Third Space</title><description>signüll argues personal AI agents sit in a weird third space: not fun enough to be entertainment like TikTok or games, not reliable enough to be infrastructure like email or banking, and one failure often loses the user. Why focused vertical agents may win, the pushback, and our interpretation for Samsung DX and Samsung Next. Source: https://x.com/signulll/status/2112571447944097822</description>
+<item><title>The Retention Problem for Personal Agents: signüll's Third Space</title><description>signüll argues personal AI agents sit in a weird third space: not fun enough to be entertainment like TikTok or games, not reliable enough to be infrastructure like email or banking, and one failure often loses the user. Why focused vertical agents may win, the pushback, and our interpretation for Samsung DX and Samsung Next. Source: https://x.com/signulll/status/2112571447944097822</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-signulll-agent-retention.mp3" length="6235820" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-21-signulll-agent-retention</guid><pubDate>Wed, 21 Oct 2026 21:55:00 -0700</pubDate>
 <itunes:duration>389</itunes:duration><itunes:explicit>false</itunes:explicit></item>
@@ -36,7 +40,7 @@
 <item><title>SpaceX Q3 2026: Broad Beat and a $33-37B Q1 Compute Guide (Funda review)</title><description>The whole Funda AI review of SpaceX's third quarter: the broad beat, the $33-37B Q1 2027 compute revenue guide, estimate changes and SOTP valuation, the SI, Connectivity and Space segments, financials, capex and funding, and Funda's key risks, plus our interpretation for Samsung DX and Samsung Next. Source: Funda AI report.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-funda-spacex-q3-compute-guide.mp3" length="18314924" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-21-funda-spacex-q3-compute-guide</guid><pubDate>Wed, 21 Oct 2026 20:30:00 -0700</pubDate>
-<itunes:duration>1145</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+<itunes:duration>1144</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>What Goes Quant Next? Granade on AI and the Next Quant Industries</title><description>Matthew Granade (Faint Signals) argues AI sets up the next wave of industries "going quant," after finance, political campaigns and baseball, and bets on trial law, entertainment and general management. His argument, the pushback, and our interpretation for Samsung DX and Samsung Next. Source: https://x.com/matthewgranade/status/2112966084064129429</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-granade-what-goes-quant-next.mp3" length="9543980" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-21-granade-what-goes-quant-next</guid><pubDate>Wed, 21 Oct 2026 18:30:00 -0700</pubDate>
@@ -55,7 +59,7 @@
 <itunes:duration>423</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Nvidia's Demand in Thirds: Jensen Huang on BG2</title><description>Jensen Huang tells Brad Gerstner AI demand is far broader than two labs, and the 2027 limit is land, power and shell; pushback, plus our interpretation for Samsung DX and Samsung Next.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-bg2-jensen-demand-in-thirds.mp3" length="7591724" type="audio/mpeg"/>
-<guid isPermaLink="false">2026-10-21-bg2-jensen-demand-in-thirds</guid><pubDate>Wed, 21 Oct 2026 08:34:09 -0700</pubDate>
+<guid isPermaLink="false">2026-10-21-bg2-jensen-demand-in-thirds</guid><pubDate>Wed, 21 Oct 2026 08:34:10 -0700</pubDate>
 <itunes:duration>474</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Thompson: Muse Spark Open, Meta + Apple, Thin and Thick</title><description>Ben Thompson (Stratechery) on Meta's open-weight Muse Spark Open running locally on Macs with Apple's help, his branch-prediction idea for free local tokens, and why cloud still wins on cost. Ends with our interpretation for Samsung DX and Samsung Next. Source: https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-thompson-muse-spark-open-thin-and-thick.mp3" length="6280364" type="audio/mpeg"/>
