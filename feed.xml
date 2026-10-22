@@ -5,7 +5,11 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
-<item><title>The Retention Problem for Personal Agents: signüll's Third Space</title><description>signüll argues personal AI agents sit in a weird third space: not fun enough to be entertainment like TikTok or games, not reliable enough to be infrastructure like email or banking, and one failure often loses the user. Why focused vertical agents may win, the pushback, and our interpretation for Samsung DX and Samsung Next. Source: https://x.com/signulll/status/2112571447944097822</description>
+<item><title>Topol: The anatomy of a personal health agent (Nature)</title><description>Two-host pod on Google Research's three-agent personal health agent in Nature, flagged by Eric Topol: results, caveats (no outcome data, 205 s per reply, 2% moderate-to-severe harm in summaries), and our view on Galaxy Watch, Samsung Health and investable gaps.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-22-topol-personal-health-agent.mp3" length="8032940" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-22-topol-personal-health-agent</guid><pubDate>Wed, 21 Oct 2026 23:29:35 -0700</pubDate>
+<itunes:duration>502</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+    <item><title>The Retention Problem for Personal Agents: signüll's Third Space</title><description>signüll argues personal AI agents sit in a weird third space: not fun enough to be entertainment like TikTok or games, not reliable enough to be infrastructure like email or banking, and one failure often loses the user. Why focused vertical agents may win, the pushback, and our interpretation for Samsung DX and Samsung Next. Source: https://x.com/signulll/status/2112571447944097822</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-signulll-agent-retention.mp3" length="6235820" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-21-signulll-agent-retention</guid><pubDate>Wed, 21 Oct 2026 21:55:00 -0700</pubDate>
 <itunes:duration>389</itunes:duration><itunes:explicit>false</itunes:explicit></item>
