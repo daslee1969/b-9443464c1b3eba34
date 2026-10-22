@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Agent Networks: Grous on the Next Step After Personal Agents</title><description>Nick Grous (ARK) predicts agent networks, your agent working things out with other people's agents, will dominate the conversation within six months. His three-stage graphic (chatbot, personal agent, agent networks), the gaps it skips, and our interpretation for Samsung DX. Source: https://x.com/GrousARK/status/2113018408769908888</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-grous-agent-networks.mp3" length="4134188" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-21-grous-agent-networks</guid><pubDate>Wed, 21 Oct 2026 20:35:00 -0700</pubDate>
+<itunes:duration>258</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>SpaceX Q3 2026: Broad Beat and a $33-37B Q1 Compute Guide (Funda review)</title><description>The whole Funda AI review of SpaceX's third quarter: the broad beat, the $33-37B Q1 2027 compute revenue guide, estimate changes and SOTP valuation, the SI, Connectivity and Space segments, financials, capex and funding, and Funda's key risks, plus our interpretation for Samsung DX and Samsung Next. Source: Funda AI report.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-funda-spacex-q3-compute-guide.mp3" length="18314924" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-21-funda-spacex-q3-compute-guide</guid><pubDate>Wed, 21 Oct 2026 20:30:00 -0700</pubDate>
