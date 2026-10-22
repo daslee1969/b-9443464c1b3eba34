@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>What Goes Quant Next? Granade on AI and the Next Quant Industries</title><description>Matthew Granade (Faint Signals) argues AI sets up the next wave of industries "going quant," after finance, political campaigns and baseball, and bets on trial law, entertainment and general management. His argument, the pushback, and our interpretation for Samsung DX and Samsung Next. Source: https://x.com/matthewgranade/status/2112966084064129429</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-granade-what-goes-quant-next.mp3" length="9543980" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-21-granade-what-goes-quant-next</guid><pubDate>Wed, 21 Oct 2026 18:30:00 -0700</pubDate>
+<itunes:duration>596</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>The GPU Revenue Ladder: Tunguz on Inference Economics</title><description>Tomasz Tunguz prices one GPU card-hour four ways, from DeepSeek's theoretical $38 to SpaceX's realized $2.44, and argues large-scale inference is a healthy business. His caveats, the counterforces (token deflation, on-device inference), and our interpretation for Samsung DX and Samsung Next. Source: https://x.com/ttunguz/status/2112950420402479268</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-21-tunguz-gpu-revenue-ladder.mp3" length="8899628" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-21-tunguz-gpu-revenue-ladder</guid><pubDate>Wed, 21 Oct 2026 15:10:00 -0700</pubDate>
