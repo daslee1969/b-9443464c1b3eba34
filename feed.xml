@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>The AI Capex Bill Comes Due (Evergreen Capital)</title><description>Two-host walk-through of Evergreen Capital's Oct 22, 2026 X post: why markets were unprepared for big-5 AI capex funding, issuance and dilution, the correction, and Evergreen's estimate of &gt;$1.3T capex in 2027 rising to &gt;$2.5T in 2030. Ends with our interpretation for Samsung DX devices and health. Source: https://x.com/evergreencap3/status/2113362051385139661</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-23-evergreen-capex-funding-wakeup.mp3" length="8214956" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-23-evergreen-capex-funding-wakeup</guid><pubDate>Fri, 23 Oct 2026 07:37:29 -0700</pubDate>
+<itunes:duration>513</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Hermes Gets Its Own Computer: Nous x Cua Spaces (Oct 23, 2026)</title><description>Maya and Sam on Nous Research's post that Hermes can now share a computer with your team through the Cua Spaces plugin, with context from Cua and Hermes docs, and what it means for on-device assistants and health at Samsung DX.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-23-nous-hermes-cua-spaces.mp3" length="7133996" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-23-nous-hermes-cua-spaces</guid><pubDate>Fri, 23 Oct 2026 07:37:19 -0700</pubDate>
