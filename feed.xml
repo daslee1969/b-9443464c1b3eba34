@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Delphi on Hermes: the moat above the model</title><description>Maya and Sam on Delphi Digital's Hermes Agent report slides (May data, unverified claims); harness vs model, Nous Portal economics, and what it means for on-device assistants and health.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-23-delphi-hermes-harness-moat.mp3" length="10497068" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-23-delphi-hermes-harness-moat</guid><pubDate>Fri, 23 Oct 2026 09:17:18 -0700</pubDate>
+<itunes:duration>656</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Eric Seufert on The Synopsis: Google Search, agentic commerce, AI ads</title><description>Drew Cohen's Synopsis interview with Eric Seufert. Episode not transcribed; covers chapter list plus Seufert's 2025 'agentic commerce is a mirage' view, and what it means for Samsung DX assistants and health.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-23-seufert-synopsis-ads-agents.mp3" length="7141676" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-23-seufert-synopsis-ads-agents</guid><pubDate>Fri, 23 Oct 2026 08:52:20 -0700</pubDate>
