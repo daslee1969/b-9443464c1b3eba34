@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Eric Seufert on The Synopsis: Google Search, agentic commerce, AI ads</title><description>Drew Cohen's Synopsis interview with Eric Seufert. Episode not transcribed; covers chapter list plus Seufert's 2025 'agentic commerce is a mirage' view, and what it means for Samsung DX assistants and health.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-23-seufert-synopsis-ads-agents.mp3" length="7141676" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-23-seufert-synopsis-ads-agents</guid><pubDate>Fri, 23 Oct 2026 08:52:20 -0700</pubDate>
+<itunes:duration>446</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Muse monetization: bull vs bear (Evergreen vs Tommy)</title><description>Evergreen Capital says Meta's Muse has won the consumer agent wars; Tommy (@Shaughnessy119) says users mostly cut costs, which earns Meta nothing. Checked against Meta's Q3 call. Ends with our interpretation for Samsung DX devices and health.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-23-muse-monetization-bull-vs-bear.mp3" length="10630700" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-23-muse-monetization-bull-vs-bear</guid><pubDate>Fri, 23 Oct 2026 07:41:28 -0700</pubDate>
