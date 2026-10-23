@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Hermes Gets Its Own Computer: Nous x Cua Spaces (Oct 23, 2026)</title><description>Maya and Sam on Nous Research's post that Hermes can now share a computer with your team through the Cua Spaces plugin, with context from Cua and Hermes docs, and what it means for on-device assistants and health at Samsung DX.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-23-nous-hermes-cua-spaces.mp3" length="7133996" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-23-nous-hermes-cua-spaces</guid><pubDate>Fri, 23 Oct 2026 07:37:19 -0700</pubDate>
+<itunes:duration>445</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Consumer agents are day one of wave one (Anish Acharya)</title><description>Anish Acharya argues consumer agents are a new way to use computers, not a productivity tool, with categories wide open; replies say trust, privacy and undo decide winners. Ends with interpretation for Samsung DX and Samsung Next.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-23-acharya-consumer-agents-day-one.mp3" length="5420204" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-23-acharya-consumer-agents-day-one</guid><pubDate>Fri, 23 Oct 2026 07:35:53 -0700</pubDate>
