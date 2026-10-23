@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>WWDC26 Apple Intelligence Group Lab: Siri as the orchestrator</title><description>Maya and Sam on Apple's WWDC26 Apple Intelligence Group Lab: app schemas, the system orchestrator, on-device vs Private Cloud Compute models, evaluations. Hosts' view tied to Samsung DX and the Nov 4 assistants talk.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-23-wwdc26-siri-orchestrator.mp3" length="9760556" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-23-wwdc26-siri-orchestrator</guid><pubDate>Fri, 23 Oct 2026 10:20:20 -0700</pubDate>
+<itunes:duration>610</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Citrini's Breaking the Wall: a crypto basket without BTC or ETH</title><description>Maya and Sam on Citrini Research's tokenization report, its 15-token basket, the agentic-finance premise, and what it means for on-device assistants. 7:48.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-23-citrini-breaking-the-wall.mp3" length="7490348" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-23-citrini-breaking-the-wall</guid><pubDate>Fri, 23 Oct 2026 09:18:59 -0700</pubDate>
