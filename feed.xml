@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Seufert and Adam Epstein: Amazon, ChatGPT ads, and agentic commerce</title><description>From Eric Seufert's MDM podcast with Adam Epstein (Gigi), Oct 21. Why Amazon blocks agents, the Amazon and ChatGPT ad partnership, why take rates are dead, Amazon's identity moat, and the new listening wearables. Ends with what it means for Samsung DX devices and health.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-23-seufert-amazon-agentic-commerce.mp3" length="10050092" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-23-seufert-amazon-agentic-commerce</guid><pubDate>Fri, 23 Oct 2026 10:49:56 -0700</pubDate>
+<itunes:duration>628</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>WWDC26 Apple Intelligence Group Lab: Siri as the orchestrator</title><description>Maya and Sam on Apple's WWDC26 Apple Intelligence Group Lab: app schemas, the system orchestrator, on-device vs Private Cloud Compute models, evaluations. Hosts' view tied to Samsung DX and the Nov 4 assistants talk.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-23-wwdc26-siri-orchestrator.mp3" length="9760556" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-23-wwdc26-siri-orchestrator</guid><pubDate>Fri, 23 Oct 2026 10:20:20 -0700</pubDate>
