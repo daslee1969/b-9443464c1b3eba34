@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Starlink, By The Numbers (Polymath Investor)</title><description>Maya and Sam on Starlink's Q3 2026 economics: 36% of SpaceX revenue, 85% of operating income, a ~28% margin if launches were charged at market rates, its scale moat, and the risk from governments. Ends with the hosts' own view on satellite links, on-device assistants and health for Samsung DX.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-24-starlink-by-the-numbers.mp3" length="13356716" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-24-starlink-by-the-numbers</guid><pubDate>Sat, 24 Oct 2026 08:26:02 -0700</pubDate>
+<itunes:duration>834</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Krog: Claude as a second brain for stock research</title><description>Sebastian Krog's Obsidian + Claude Code raw/wiki/output knowledge-base setup, and what it means for on-device assistants and health.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-24-krog-claude-second-brain.mp3" length="8980268" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-24-krog-claude-second-brain</guid><pubDate>Sat, 24 Oct 2026 08:07:06 -0700</pubDate>
