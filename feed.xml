@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Anthropic's S-1, Benchmarked (Clouded Judgement)</title><description>Maya and Sam walk through Jamin Ball's read of Anthropic's S-1: over $19B LTM revenue, 1,368% Q2 growth, 85% gross margin, FCF positive, and why lumpy compute costs strengthen the on-device-first case.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-26-clouded-anthropic-s1-benchmarks.mp3" length="8203436" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-26-clouded-anthropic-s1-benchmarks</guid><pubDate>Mon, 26 Oct 2026 11:30:24 -0700</pubDate>
+<itunes:duration>512</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Chamath: stranded compute and a turbulent 2027</title><description>Chamath Palihapitiya's Oct 25 thread on neoclouds, hyperscaler bottlenecks, Texas power and liquidated damages, plus what it means for on-device assistants.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-25-chamath-stranded-compute-2027.mp3" length="9626924" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-25-chamath-stranded-compute-2027</guid><pubDate>Sun, 25 Oct 2026 14:59:53 -0700</pubDate>
