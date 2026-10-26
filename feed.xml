@@ -5,10 +5,6 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
-<item><title>Hey Grok from anywhere in the house (Texas Twins Dad)</title><description>A hobbyist wires a free, on-device "Hey Grok" wake word to a cloud agent for whole-home voice. Replies flag the always-on mic, the last click and token cost. Ends with the hosts' interpretation for Samsung DX and Samsung Next. Source: https://x.com/Texas_Twins_Dad/status/2114400859513618889</description>
-<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-26-texas-twins-dad-hey-grok-wake-word.mp3" length="4863404" type="audio/mpeg"/>
-<guid isPermaLink="false">2026-10-26-texas-twins-dad-hey-grok-wake-word</guid><pubDate>Mon, 26 Oct 2026 07:39:09 -0700</pubDate>
-<itunes:duration>303</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Chamath: stranded compute and a turbulent 2027</title><description>Chamath Palihapitiya's Oct 25 thread on neoclouds, hyperscaler bottlenecks, Texas power and liquidated damages, plus what it means for on-device assistants.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-25-chamath-stranded-compute-2027.mp3" length="9626924" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-25-chamath-stranded-compute-2027</guid><pubDate>Sun, 25 Oct 2026 14:59:53 -0700</pubDate>
