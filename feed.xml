@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Gavin Baker on Anthropic: Elasticity, GPUs and the Goldilocks Zone</title><description>Maya and Sam walk through Gavin Baker's Oct 26 X posts on Anthropic's S-1: token price elasticity, revenue per GPU, $100B ARR talk, and what it means for on-device assistants.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-26-gavin-baker-anthropic-elasticity.mp3" length="9648044" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-26-gavin-baker-anthropic-elasticity</guid><pubDate>Mon, 26 Oct 2026 12:16:35 -0700</pubDate>
+<itunes:duration>602</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Anthropic's S-1, Benchmarked (Clouded Judgement)</title><description>Maya and Sam walk through Jamin Ball's read of Anthropic's S-1: over $19B LTM revenue, 1,368% Q2 growth, 85% gross margin, FCF positive, and why lumpy compute costs strengthen the on-device-first case.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-26-clouded-anthropic-s1-benchmarks.mp3" length="8203436" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-26-clouded-anthropic-s1-benchmarks</guid><pubDate>Mon, 26 Oct 2026 11:30:24 -0700</pubDate>
