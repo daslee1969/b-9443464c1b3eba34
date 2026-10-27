@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Sridhar on the AI compute bet: banks, merchants, airlines, utilities</title><description>Snowflake CEO Sridhar Ramaswamy's 16-post thread on buying compute for years and selling intelligence by the token, with analogies to banks, commodity merchants, airlines, utilities and cloud providers.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-27-sridhar-compute-bet.mp3" length="8496044" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-27-sridhar-compute-bet</guid><pubDate>Tue, 27 Oct 2026 13:33:35 -0700</pubDate>
+<itunes:duration>530</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Gavin Baker on Anthropic: Elasticity, GPUs and the Goldilocks Zone</title><description>Maya and Sam walk through Gavin Baker's Oct 26 X posts on Anthropic's S-1: token price elasticity, revenue per GPU, $100B ARR talk, and what it means for on-device assistants.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-26-gavin-baker-anthropic-elasticity.mp3" length="9648044" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-26-gavin-baker-anthropic-elasticity</guid><pubDate>Mon, 26 Oct 2026 12:16:35 -0700</pubDate>
