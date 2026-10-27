@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Chamath: Has SI turned memory into a lasting franchise?</title><description>Chamath Palihapitiya's Learn With Me deep dive on whether Super Intelligence turned memory from boom-and-bust commodity into a durable franchise. Micron revenue up 256%, Samsung ~$80B quarterly op profit, stocks still down ~22-65% from highs. HBM has franchise features but record profits mostly from conventional DRAM shortage. Base case: franchise core inside a cycle that still turns as 2027-2029 fabs arrive. Interpretation for Samsung Next DX and the Nov 4 CSPT talk.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-27-chamath-memory-franchise.mp3" length="13861676" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-27-chamath-memory-franchise</guid><pubDate>Tue, 27 Oct 2026 15:32:35 -0700</pubDate>
+<itunes:duration>866</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Teng Yan: SK hynix looks priced for the end of the boom</title><description>Maya and Sam walk Teng Yan's Tessara pre-earnings brief on SK hynix: stock down 47% since July while DDR5 spot is up 31%, Q3/Q4 bars, Micron's 2027 HBM contracts, four boom-end signals, and the custom base-die countercase. Hosts close with a Samsung Next DX / CSPT Personal AI Assistants read.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-27-tengyan-sk-hynix-boom.mp3" length="10265132" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-27-tengyan-sk-hynix-boom</guid><pubDate>Tue, 27 Oct 2026 13:44:35 -0700</pubDate>
