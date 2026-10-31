@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Shaun Maguire: People don't understand SpaceX</title><description>Maya and Sam walk Sequoia partner Shaun Maguire's bottoms-up SpaceX model: elite team, Starship moat, low-cost compute, and Starlink/DTC unit economics at about $20B run rate.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-31-shaun-spacex-model.mp3" length="10734764" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-31-shaun-spacex-model</guid><pubDate>Sat, 31 Oct 2026 08:05:06 -0700</pubDate>
+<itunes:duration>670</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>SpaceX business model: Starlink, launch, Starshield, compute</title><description>Maya and Sam walk SpaceX's four revenue engines from FundaAI Part 2, Robonomics S-1 cloud deals, and SemiAnalysis on 10GW by 2027. Segments, unit economics, the $2T valuation gap, and where the sources disagree.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-28-spacex-business-model.mp3" length="12120620" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-28-spacex-business-model</guid><pubDate>Wed, 28 Oct 2026 20:47:54 -0700</pubDate>
