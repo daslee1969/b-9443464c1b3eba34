@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Robotics' New Era After Astra (Robonomics)</title><description>F D at Robonomics on OpenAI GPT-6 Astra as robotics' GPT-3 moment: general models doing real manipulation, the shift to deployment and physical data, System 0 control, edge memory, and why he is bullish on the industry but skeptical of standalone robotics models.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-31-robonomics-astra.mp3" length="13925420" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-10-31-robonomics-astra</guid><pubDate>Sat, 31 Oct 2026 20:40:50 -0700</pubDate>
+<itunes:duration>870</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Compute credit crunch: Evan Conrad of SF Compute</title><description>Evan Conrad of SF Compute on the AI compute debt freeze, near-100% prepayments cascading into the token layer, and what VCs and startups should do. From his Oct 31, 2026 X post after the Debt Markets and Compute fireside.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-10-31-evan-compute-credit.mp3" length="9863468" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-10-31-evan-compute-credit</guid><pubDate>Sat, 31 Oct 2026 19:57:30 -0700</pubDate>
