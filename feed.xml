@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Meta Update: Underpriced AI Opportunity or Costly Gamble?</title><description>Drew Cohen on Meta after 3Q26: strong Family of Apps revenue, Muse traction, agentic shopping, and a 16–20× earnings frame—plus the AI plateau risk. Maya and Sam for David's Brief.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-11-02-drew-cohen-meta.mp3" length="10763180" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-11-02-drew-cohen-meta</guid><pubDate>Mon, 02 Nov 2026 07:42:42 -0800</pubDate>
+<itunes:duration>672</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Step-level Routing Within Tasks Could Create Headwind for LLM Revenue</title><description>FUNDA (Nov 1, 2026): step-level routing matched Opus-only accuracy at ~28% lower cost; at 20–30% adoption they size a ~5–8% headwind to frontier API revenue. Paywalled source; directional test.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-11-02-fundaai-step-routing.mp3" length="12455852" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-11-02-fundaai-step-routing</guid><pubDate>Mon, 02 Nov 2026 05:45:44 -0800</pubDate>
