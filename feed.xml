@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Step-level Routing Within Tasks Could Create Headwind for LLM Revenue</title><description>FUNDA (Nov 1, 2026): step-level routing matched Opus-only accuracy at ~28% lower cost; at 20–30% adoption they size a ~5–8% headwind to frontier API revenue. Paywalled source; directional test.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-11-02-fundaai-step-routing.mp3" length="12455852" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-11-02-fundaai-step-routing</guid><pubDate>Mon, 02 Nov 2026 05:45:44 -0800</pubDate>
+<itunes:duration>778</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>The Balance of Power: Stripe Link vs Visa</title><description>Alfonso Gómez-Jordana on Stripe Link balance as a path to dethrone Visa and Mastercard. Disputed $150 cap and prepaid claims flagged. Hosts: Maya and Sam.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-11-01-stripe-link-balance.mp3" length="12183980" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-11-01-stripe-link-balance</guid><pubDate>Sun, 01 Nov 2026 16:12:32 -0800</pubDate>
