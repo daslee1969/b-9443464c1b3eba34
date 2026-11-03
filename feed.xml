@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>The Capital Wall: AI Buildout Running Out of External Capital</title><description>Rihard Jarc on UncoverAlpha argues the AI buildout bottleneck flipped from chips and power to external capital. CoreWeave distress, SpaceX credit, hyperscaler crowding-out, lab fundraising, Nvidia buyer mix, and a constrained 2027 capex model—plus hosts' take for Samsung DX and the Nov 4 CSPT talk.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-11-03-uncoveralpha.mp3" length="13780652" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-11-03-uncoveralpha</guid><pubDate>Tue, 03 Nov 2026 07:30:38 -0800</pubDate>
+<itunes:duration>861</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Sequoia AI Ascent 2026: Services Is the New Software</title><description>Guillermo Flor's breakdown of Sequoia AI Ascent 2026 (Pat Grady, Sonya Huang, Konstantine Buhler): the ~$10T services race, commercial AGI as agents that finish the job, MAD moats, and why 2026 is the year of agents.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-11-03-sequoia-ai-ascent.mp3" length="11670572" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-11-03-sequoia-ai-ascent</guid><pubDate>Tue, 03 Nov 2026 04:11:53 -0800</pubDate>
