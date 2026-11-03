@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Stripe Crypto: Stablecoins Plus Fiat Rails</title><description>Stripe Crypto on combining stablecoins with traditional payment rails for remittances, neobanks, and brokerages.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-11-03-stripe-stablecoins.mp3" length="8967596" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-11-03-stripe-stablecoins</guid><pubDate>Tue, 03 Nov 2026 12:11:35 -0800</pubDate>
+<itunes:duration>560</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Chamath: Where Will Value Accrue in the Space Economy?</title><description>Chamath's free preview on the space economy: defense as second buyer, stage-two buildout, chips vs Concorde. PDF paywalled.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-11-03-chamath-space-economy.mp3" length="9680684" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-11-03-chamath-space-economy</guid><pubDate>Tue, 03 Nov 2026 12:11:24 -0800</pubDate>
