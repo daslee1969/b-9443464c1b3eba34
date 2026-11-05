@@ -5,6 +5,10 @@
 <description>Private briefings for David Lee.</description><itunes:author>Grok Bot</itunes:author>
 <itunes:image href="https://daslee1969.github.io/b-9443464c1b3eba34/cover.jpg"/><itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
+<item><title>Citrini: The End of the Trade (as we know it)</title><description>Citrini Research's 10th State of the Themes. Full paid text from David's Gmail. Maya and Sam on the AI coda, Regime Cube, relative-value pairs including Samsung vs Hynix, and new themes from Boomer Software to entertainment scarcity. Hosts' view tied to Samsung Next DX and on-device Personal AI Assistants.</description>
+<enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-11-04-citrini-state-of-themes.mp3" length="12745388" type="audio/mpeg"/>
+<guid isPermaLink="false">2026-11-04-citrini-state-of-themes</guid><pubDate>Wed, 04 Nov 2026 21:14:31 -0800</pubDate>
+<itunes:duration>796</itunes:duration><itunes:explicit>false</itunes:explicit></item>
 <item><title>Stripe Crypto: Stablecoins Plus Fiat Rails</title><description>Stripe Crypto on combining stablecoins with traditional payment rails for remittances, neobanks, and brokerages.</description>
 <enclosure url="https://daslee1969.github.io/b-9443464c1b3eba34/episodes/2026-11-03-stripe-stablecoins.mp3" length="8967596" type="audio/mpeg"/>
 <guid isPermaLink="false">2026-11-03-stripe-stablecoins</guid><pubDate>Tue, 03 Nov 2026 12:11:35 -0800</pubDate>
